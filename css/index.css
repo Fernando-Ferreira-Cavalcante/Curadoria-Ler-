@@ -78,7 +78,7 @@ body {
 /*Folha de estilo para adaptar o site para tela de tablet */
 @media (min-width:481px) and (max-width:1024px){
     .conteudo_titulo{
-    font-size: 5rem;
+    font-size: 4rem;
     text-align: center;
 }
 
@@ -121,7 +121,7 @@ body {
 /*Folha de estilo para adaptar o site para tela de celulares*/
 @media (max-width:480px){
     .conteudo_titulo{ 
-    font-size: 5rem;
+    font-size: 3rem;
     text-align: center;
 }
 
